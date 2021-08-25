@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@import "./var";
+@import "./animation";
+@import "./font";
+
+// leaut
+@import "./leaut/footer";
+@import "./leaut/header";
+
+// menyu
+@import "./home/AboutTesty";
+@import "./home/Specialties";
+// @import "./Home/estagram";
+
+// Specialties
+@import "./speacialtime/Specialtie";
+
+// about
+@import "./About/MasterOur";
+
+// Reservation
+@import "./Reservation/resev";
+
+// blog
+@import "./Blog/blog";
+
+// contact
+@import "./contact/contact";
+
+// menu
+@import "./Menyu/menu";
+
+
+@import "./base";
